@@ -7,7 +7,7 @@
 ## Wireframe Diagrams
 
 ### Landing page
-![Main Page](ux-design/landingpage.png) <br/>
+![Main Page](ux-design/landingpage.png = 100x) <br/>
 This page is the first place the user lands. It provides the user with backgrounds of the company. In addition, 
 the user can log in to their account or register an account by clicking the hamburger icon at the top right. 
 
