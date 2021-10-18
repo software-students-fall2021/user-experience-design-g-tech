@@ -1,4 +1,5 @@
 ## App Map
+![App Map](appmap.png) <br/>
 <br/>
 <br/>
 <br/>
