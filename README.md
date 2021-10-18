@@ -1,5 +1,5 @@
-## Prototype 
-https://saverie.invisionapp.com/console/share/8734W3CTXC
+## Prototype
+https://saverie.invisionapp.com/console/share/8734W3CTXC/813969771
 
 ## App Map
 ![App Map](ux-design/appmap.png) <br/>
@@ -10,24 +10,24 @@ https://saverie.invisionapp.com/console/share/8734W3CTXC
 
 ### Landing page
 <img src='ux-design/landingpage.png' width='200' alt='Landing Page'> <br/>
-This page is the first place the user lands. It provides the user with backgrounds of the company. In addition, 
-the user can log in to their account or register an account by clicking the hamburger icon at the top right. 
+This page is the first place the user lands. It provides the user with backgrounds of the company. In addition,
+the user can log in to their account or register an account by clicking the hamburger icon at the top right.
 
 ### Main page
 <img src='ux-design/mainpage1.png' width='200' alt='Main Page'> <br/>
-This page presents how the overlay menu on top of the main page looks like. It shows up when the user clicks on the hamburger icon on the main page and provides the user with the options of either logging in or registering. 
+This page presents how the overlay menu on top of the main page looks like. It shows up when the user clicks on the hamburger icon on the main page and provides the user with the options of either logging in or registering.
 
 ### Main page with sorting
 <img src='ux-design/mainpage2.png' width='200' alt='Main Page with Overlay'> <br/>
-This page presents how the overlay menu on top of the main page looks like. It shows up when the user clicks on the hamburger icon on the main page and provides the user with the options of either logging in or registering. 
+This page presents how the overlay menu on top of the main page looks like. It shows up when the user clicks on the hamburger icon on the main page and provides the user with the options of either logging in or registering.
 
-### Sign in 
+### Sign in
 <img src='ux-design/signin.png' width='200' alt='Login'> <br/>
-The user is able to log into his/her account by entering their information on this page. When the user finishes inputing the information, he or she could click on the login button to login. 
+The user is able to log into his/her account by entering their information on this page. When the user finishes inputing the information, he or she could click on the login button to login.
 
-### Register 
+### Register
 <img src='ux-design/register.png' width='200' alt='Register'> <br/>
-The user can register a new account on their page by inputting information and clicking the register button. 
+The user can register a new account on their page by inputting information and clicking the register button.
 
 ### Menu
 <img src='ux-design/usermenu.png' width='200' alt='User Menu'> <br/>
