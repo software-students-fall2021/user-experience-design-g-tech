@@ -1,5 +1,5 @@
 ## App Map
-![App Map](appmap.png) <br/>
+![App Map](ux-design/appmap.png) <br/>
 <br/>
 <br/>
 <br/>
