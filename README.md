@@ -1,11 +1,9 @@
 ## App Map
----
 <br/>
 <br/>
 <br/>
 
 ## Wireframe Diagrams
----
 
 ### User Menu
 ![User Menu](ux-design/usermenu.png)
