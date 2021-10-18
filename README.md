@@ -1,6 +1,8 @@
+## Prototype 
+https://saverie.invisionapp.com/console/share/8734W3CTXC
+
 ## App Map
 ![App Map](ux-design/appmap.png) <br/>
-<br/>
 <br/>
 <br/>
 
@@ -54,6 +56,3 @@ The user can change their profile, account details, and display preferences if t
 ### Timer Page
 <img src='ux-design/timer.png' width='200' alt='Timer'> <br/>
 The user can change their profile, account details, and display preferences if they choose to do so. To exit, they swipe right to return to the original user menu.
-
-## Prototype 
-https://saverie.invisionapp.com/console/share/8734W3CTXC
